@@ -1,5 +1,5 @@
 //利用辗转相除法求最大公约数，不知道可以百度
- 
+
 #include<stdio.h>
 
 int main()
